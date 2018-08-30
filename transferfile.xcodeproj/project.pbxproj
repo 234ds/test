@@ -16,6 +16,7 @@
 		17302C7E2021AD0E0073CA75 /* transferfileTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 17302C7D2021AD0E0073CA75 /* transferfileTests.m */; };
 		17302C892021AD0E0073CA75 /* transferfileUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 17302C882021AD0E0073CA75 /* transferfileUITests.m */; };
 		177CB19F2021C1DA005E0B60 /* 1515467707.spx in Resources */ = {isa = PBXBuildFile; fileRef = 177CB19E2021C1D9005E0B60 /* 1515467707.spx */; };
+		A36779B92137F52600BDEEF9 /* 水淀粉.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A36779B82137F52600BDEEF9 /* 水淀粉.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		17302C882021AD0E0073CA75 /* transferfileUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = transferfileUITests.m; sourceTree = "<group>"; };
 		17302C8A2021AD0E0073CA75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		177CB19E2021C1D9005E0B60 /* 1515467707.spx */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1515467707.spx; sourceTree = "<group>"; };
+		A36779B82137F52600BDEEF9 /* 水淀粉.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "水淀粉.rtf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		17302C582021AD0D0073CA75 = {
 			isa = PBXGroup;
 			children = (
+				A36779B82137F52600BDEEF9 /* 水淀粉.rtf */,
 				17302C632021AD0D0073CA75 /* transferfile */,
 				17302C7C2021AD0E0073CA75 /* transferfileTests */,
 				17302C872021AD0E0073CA75 /* transferfileUITests */,
@@ -242,6 +245,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				17302C712021AD0E0073CA75 /* LaunchScreen.storyboard in Resources */,
+				A36779B92137F52600BDEEF9 /* 水淀粉.rtf in Resources */,
 				17302C6E2021AD0E0073CA75 /* Assets.xcassets in Resources */,
 				177CB19F2021C1DA005E0B60 /* 1515467707.spx in Resources */,
 				17302C6C2021AD0E0073CA75 /* Main.storyboard in Resources */,
