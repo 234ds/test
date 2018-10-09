@@ -10,7 +10,7 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>//feature1修改此文件,再加内容
 
-@property (strong, nonatomic) UIWindow *window;//master分支修改此文件
+@property (strong, nonatomic) UIWindow *window;
 
 
 @end
