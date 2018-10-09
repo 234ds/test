@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>//feature1修改此文件,再加内容
+@interface AppDelegate : UIResponder <UIApplicationDelegate>//feature1修改此文件,再加内容,asdffas
 
 @property (strong, nonatomic) UIWindow *window;
 
