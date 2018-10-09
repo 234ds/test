@@ -10,7 +10,7 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
-@property (strong, nonatomic) UIWindow *window;//master分支修改此文件
+@property (strong, nonatomic) UIWindow *window;
 
 
 @end
